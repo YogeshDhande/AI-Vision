@@ -856,6 +856,12 @@ footer{
     #about{
         margin-top: 5rem;
     }
+    #exhibition{
+        margin-top: 2rem;
+    }
+    .exhibition-gallery img{
+        filter: saturate(1);
+    }
 }
 /* ============================ 400 ============================ */
 @media (max-width:400px){
